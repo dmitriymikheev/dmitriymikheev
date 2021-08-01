@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+- 💻 Stack: **PHP, JS, MySQL, Docker**
+- :man_technologist: [Instagram](https://www.instagram.com/iamdimamikheev) | [Telegram](https://t.me/DimaMikheev)
+- :email: [dimamiheev92@gmail.com](mailto:dimamiheev92@gmail.com)
+
+<img src="https://github-readme-stats.vercel.app/api?username=dmitriymikheev&count_private=true&show_icons=true&theme=vue" alt="mikheev"/>
 
 <!--
 **dmitriymikheev/dmitriymikheev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
