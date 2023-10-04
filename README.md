@@ -31,7 +31,7 @@ Backend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dmitriymikheev"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmitriymikheev&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="dmitriymikheev's GitHub stats" /></a>
+<a href="http://www.github.com/dmitriymikheev"><img src="https://github-readme-stats-eta-black-45.vercel.app/api?username=dmitriymikheev&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true&include_all_commits=true" alt="dmitriymikheev's GitHub stats" /></a>
 
 <!--
 **dmitriymikheev/dmitriymikheev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
